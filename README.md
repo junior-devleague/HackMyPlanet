@@ -1,0 +1,2 @@
+# HackMyPlanet // With Great Power comes with great responsibilities
+This course will encourage students to understand the basic components of how to code and apply it to better understanding how hardware works. In addition, the course will teach students problem solving skills and teamwork which are highly important in the tech industry. This will culminate to a “project computer” which will include all of our functions which we have gone over in the class. They will be able to keep the computer, and continue to work on them on their own.
