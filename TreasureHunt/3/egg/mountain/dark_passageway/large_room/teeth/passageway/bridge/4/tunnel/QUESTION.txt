@@ -1,0 +1,1 @@
+Two numbers N and 16 have LCM = 48 and GCF = 8. Find N.

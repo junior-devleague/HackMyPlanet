@@ -1,0 +1,21 @@
+Linus the pirate buried his hidden treasure deep within the network of caves.
+You must solve the riddles (each directory will have a RIDDLE.txt file) to find out clues as to where to search, and choose the answer folder.
+The first one to obtain the chest of gold wins!
+
+NO FILE MANAGERS ALLOWED; This activity must be done purely through the terminal.
+If you need help, refer to the rules (less ~/Downloads/TreasureHunt/rules.txt) or ask for help!
+
+Reminders: (Command line COMMANDS)
+1. pwd - print working directory (tells you the filepath of the directory you're in)
+2. ls - lists the files and folders in the current directory
+3. cd DIRECTORY - change directory into the specified DIRECTORY after the cd command
+4. cd .. - returns you to the previous directory
+5. less - read the content of the files (clues and riddles!)
+6. cat - print out the contents of the file (alternative to less)
+
+Press Tab to autocomplete if it's a unique file name from what you've already written
+
+Also, you may do the command "man COMMAND" (without quotations) to bring up a manual help page that tells you more about the command in question.
+
+Press q to quit out of this and begin!
+

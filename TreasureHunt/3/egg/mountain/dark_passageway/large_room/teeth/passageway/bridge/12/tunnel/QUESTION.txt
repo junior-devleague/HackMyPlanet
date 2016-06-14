@@ -1,0 +1,2 @@
+What is x if x + 2y = 10 and y = 3? 
+

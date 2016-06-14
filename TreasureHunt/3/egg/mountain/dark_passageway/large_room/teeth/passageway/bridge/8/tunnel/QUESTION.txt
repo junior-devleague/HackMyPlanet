@@ -1,0 +1,2 @@
+Find the greatest common factor (GFC) of 24, 40 and 60. 
+
