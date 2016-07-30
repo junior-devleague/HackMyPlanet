@@ -1,6 +1,3 @@
 You've found the room that contains Linus the pirate's hidden treasure!
 Now you have to dig deep for it, the chest won't be out in the open.
 (HINT: the treasure chest is a hidden text file. How would you be able to have the terminal print a list of hidden files?)
-
-
-Giving the ls command the -a option allows it to print all files/directories, including hidden ones. Use the command "man ls" to learn more.
