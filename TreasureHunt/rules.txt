@@ -16,6 +16,3 @@ Reminders: (Command line COMMANDS)
 Press Tab to autocomplete if it's a unique file name from what you've already written
 
 Also, you may do the command "man COMMAND" (without quotations) to bring up a manual help page that tells you more about the command in question.
-
-Press q to quit out of this and begin!
-
